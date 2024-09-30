@@ -1,5 +1,5 @@
 This repository supports the Master's project 'Computational methods to reveal the molecular basis
-of mitochondrial diseases' by Lior Ravkaie.
+of mitochondrial diseases' by Lior Ravkaie. Datasets are available in the next link: https://doi.org/10.5281/zenodo.13627730
 
 The project's pipeline:
 
